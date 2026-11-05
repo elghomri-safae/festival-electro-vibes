@@ -1,0 +1,1 @@
+console.log("Bienvenue au festival Electro Vibes !");
